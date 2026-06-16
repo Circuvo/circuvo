@@ -1,16 +1,44 @@
-## Hi there 👋
+# Circuvo
 
-<!--
-**circuvo/circuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Circuvo is the parent company behind **Sparky Venture Labs**, a small venture studio for trying out software ideas.
 
-Here are some ideas to get you started:
+The idea is simple:
+- Come up with small, focused products
+- Build and ship quickly
+- Keep what works and kill what doesn’t
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What sits under Circuvo
+
+Right now the main focus is:
+
+### Sparky Venture Labs
+
+Sparky Venture Labs is where the actual projects get built — from tiny tools to full products.
+
+You can think of it like this:
+- Circuvo: direction and structure
+- Sparky Venture Labs: experiments and launches
+
+As new projects come online, they’ll be listed here with links to their repos.
+
+---
+
+## How this GitHub account is used
+
+This account is mainly for:
+
+- Company-level repos and docs
+- Shared code and templates used across projects
+- Notes and roadmaps that are fine to share in public
+
+Individual products may live in separate repos or orgs, but Circuvo will always point to whatever is active.
+
+---
+
+## Contact
+
+For anything related to Circuvo or Sparky Venture Labs:
+
+- GitHub: [@circuvo](https://github.com/circuvo)
