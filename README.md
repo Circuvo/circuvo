@@ -1,22 +1,33 @@
 # Circuvo
 
-Circuvo is the parent brand above **Sparky Venture Labs**.
+Parent company and venture studio behind [Sparky Venture Labs](https://github.com/sparkyventurelabs).
 
-Sparky Venture Labs is where the actual products are being built and shipped. Current work is focused on useful apps for the 3D printing space.
+We build focused software products, internal tools, and infrastructure — quietly and deliberately.
 
-## Under Circuvo
+---
 
-Right now, the main thing under Circuvo is **Sparky Venture Labs**.
+## What lives here
 
-Current products:
-- **Printer Studio**
-- **Filament Studio**
+- Organization-level infrastructure and shared tooling
+- Templates and libraries used across projects
+- Company-level documentation and public roadmaps
 
-## What this account is for
+Individual products and initiatives live in their own organizations. Sparky Venture Labs is the flagship.
 
-This account is the top-level home for the Circuvo brand.
+---
 
-It will be used for:
-- Shared company-level docs and references
-- Brand-level repos and assets
-- Links to active studios and products under the Circuvo umbrella
+## Flagship initiative
+
+**[Sparky Venture Labs](https://github.com/sparkyventurelabs)** — the hands-on lab where products get built, shipped, and iterated on.
+
+---
+
+## Working principles
+
+- Build things that work, not things that look good on paper
+- Default to private until there's a reason to share
+- Small team, fast decisions, real output
+
+---
+
+🌐 [circuvo.com](https://circuvo.com)
